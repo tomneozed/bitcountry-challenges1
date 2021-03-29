@@ -22,9 +22,6 @@ Getting to know and understand the concept of Bit.Country chain.
 
 > cargo +stable-x86_64-unknown-linux-gnu build -> Fail
 
-# github token
-#681e9bc7e172cf4bdadae220f47f32b88fc4982a 
-
 ## Challenge 2:
 
 Implement Auction unit-test.
