@@ -16,12 +16,14 @@ Getting to know and understand the concept of Bit.Country chain.
 <li>Ensure everything works as expected by compiling the code</li>
 </ul>
 
-> cargo +nightly-x86_64-unknown-linux-gnu build (/)
+> cargo +nightly-x86_64-unknown-linux-gnu build -> Ok
 
-> cargo +nightly-2020-10-06-x86_64-unknown-linux-gnu build (x)
+> cargo +nightly-2020-10-06-x86_64-unknown-linux-gnu build -> Fail
 
-> cargo +stable-x86_64-unknown-linux-gnu build (x)
+> cargo +stable-x86_64-unknown-linux-gnu build -> Fail
 
+# github token
+#681e9bc7e172cf4bdadae220f47f32b88fc4982a 
 
 ## Challenge 2:
 
